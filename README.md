@@ -1,4 +1,4 @@
-# Hallo, ich bin Jakob Wolf 👋
+# Hallo, ich bin Jakob 👋
 
 IT-Management-Student mit Erfahrung in der Beratung und großem Interesse an Softwareentwicklung.
 
