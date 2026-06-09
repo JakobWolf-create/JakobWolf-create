@@ -32,7 +32,6 @@ Neben meinem Studium entwickle ich Webanwendungen als Hobby und habe sowohl priv
 
 | Projekt | Link |
 |----------|------|
-| Orchidee Thai | https://www.orchideethai.de/ |
 | PrintBeReal | https://printbereal.vercel.app/ |
 | COMP6750 University Project | https://comp6750-e18a7.web.app/ |
 
